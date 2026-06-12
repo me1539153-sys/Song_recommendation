@@ -15,6 +15,7 @@ A Python-based recommendation system that suggests songs based on content simila
 - **Machine Learning:** `Scikit-learn` (CountVectorizer, Cosine Similarity)
 - **Visualization:** `Matplotlib`, `Seaborn`
 - **Deployment:** `Pickle` (for exporting the similarity matrix)
+- **API Integration:** Youtube 
 
 ## 📊 Dataset Structure
 The engine processes the following song attributes:
